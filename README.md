@@ -1,5 +1,4 @@
-# badges
-repo to test creation of badges as per ZD-793690
-
+# badge creation
+Example of how to display the status of a workflow run as a badge
 ![example badge](https://github.com/cpintado-org/badges/workflows/Manual%20workflow/badge.svg)
 
